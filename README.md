@@ -1,5 +1,6 @@
 # memrise-bot-script
 The python script version of my memrise bot. 
+(exe version application https://github.com/veryepicsalad/memrise-bot)
 
 #HOW TO RUN#
 - make sure you have chrome and python you goon
